@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #1C1C1C;
+}
+
+#naslov {
+        font-family: Karla;
+        font-style: bold;
+        font-weight: 800;
+        font-size: 15px;
+        line-height: 5vh;
+        letter-spacing: -0.025em;
+        color: #FFFFFF;
+}
+
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid #10B981;
+    margin-bottom: 5px;
+    min-width: 200px;
+    min-height: 30px;
+    background: #1C1C1C;
+    font-family: Karla;
+    color: white;
+    font-weight: bold;
+}
+
+input:hover{
+    border: 2px solid #00ffaa;
+}
+
+#izbrisi-gumb {
+    background: #DA4453;
+    border-color: #5f9341;
+    color: white;
+}
+
+#izbrisi-gumb:hover {
+    background: #ff0019;
+}
+#pocisti-zadnjo {
+    background: #DA4453;
+    border-color: #5f9341;
+    color: white;
+}
+button {
+font-family: Karla;
+border-radius: 5px;
+justify-content: center;
+align-items: center;
+text-align: center;
+width: 60px;
+height: 35px;
+left: 5.6094929881337645vh;
+font-size: 13px;
+border: none;
+font-style: normal;
+font-weight: bold;
+background: #10B981;
+box-shadow: 0px 0.1vh 0.21vh rgba(0, 0, 0, 0.05);   
+}
+
+button:hover {
+background: #00e99b;
+}
+
+button:active {
+    background: #67e6bd;
+    }
+
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+    bottom: 100%;
+    background: #1F2937;
+    border-radius: 5px;
+}
+
+li {
+    margin-top: 5px;
+}
+
+li button {
+    font-family: Karla;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 30px;
+    height: 20px;
+    right: 10px;
+    font-size: 13px;
+    margin: 10;
+    border: none;
+    font-style: normal;
+    font-weight: bold;
+    background: #DA4453;
+    box-shadow: 0px 0.1vh 0.21vh rgba(0, 0, 0, 0.05);   
+}
+
+li button:hover {
+    background: #ff0019;
+}
+
+a {
+    top: 40px;
+    font-family: Karla;
+    color: #10B981;
+    font-weight: bold;
+}

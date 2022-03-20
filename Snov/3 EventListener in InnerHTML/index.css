@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+#kontejner {
+    margin-top: 30px;
+}
+
+#kontejner button {
+    background: lightcoral;
+    border: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+p {
+    color: lightcoral;
+    font-weight: bold;
+}
