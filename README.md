@@ -8,3 +8,5 @@ Slika:
 <br>
 Prikaz:
 <img src="https://cdn.discordapp.com/attachments/903312995294277672/955066361070092348/posnetek.png">
+<br>
+Zraven prilozena mapa snov, v kateri je razlaga za kodo v tem projektu. Pravtako je prilozena datoteka indexkomentar.js, kjer je vse razlozeno, vendar ni bil posodobljen in nima nekaterih funkcij. 
